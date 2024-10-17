@@ -56,6 +56,10 @@ module rom_memory (
     end
 endmodule
 
+![4kb_rom](https://github.com/user-attachments/assets/d1fa4c98-d6ca-4bcc-8986-f71228a92d53)
+
+
+
 
 Testbench for 4KB ROM Memory
 
@@ -116,6 +120,8 @@ module rom_memory_tb;
     end
 
 endmodule
+
+![4kb_rom_tb](https://github.com/user-attachments/assets/c6904cdd-d13d-44b6-9790-0dfdd3bc61df)
 
 
 Conclusion
