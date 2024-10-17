@@ -17,7 +17,7 @@ Create the Testbench:
 Write a testbench to simulate both the read and write operations, verifying that the data is correctly written to and read from the memory.
 Add the Verilog Files:
 
-Add the ROM Verilog module and the testbench file to the project.
+Add the ROM Verilog module and the testbench file to the project
 Run Simulation:
 
 Run the behavioral simulation in Vivado and check the memory's read and write operations.
